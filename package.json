@@ -1,0 +1,14 @@
+{
+	"name": "chat",
+	"version": "1.0.0",
+	"description": "instant chat app",
+	"main": "index.js",
+	"scripts": {
+		"devStart": "nodemon server.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"socket.io": "^2.3.0"
+	}
+}
